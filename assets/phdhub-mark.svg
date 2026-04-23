@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="PhDHub Logo">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#FF8F5D"/>
+    </linearGradient>
+    <linearGradient id="book" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#EEF4FF"/>
+      <stop offset="100%" stop-color="#C9DBFF"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="84" height="84" rx="22" fill="#0C1836"/>
+  <rect x="9" y="9" width="78" height="78" rx="19" fill="url(#bg)" opacity="0.22"/>
+  <path d="M48 24c-8 0-15.6 2.2-22 6.3v35.4c6.4-4.1 14-6.3 22-6.3s15.6 2.2 22 6.3V30.3C63.6 26.2 56 24 48 24z" fill="url(#book)"/>
+  <path d="M48 24v35.4" stroke="#9DC0FF" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="30" cy="30" r="3.2" fill="#7DB0FF"/>
+  <circle cx="66" cy="30" r="3.2" fill="#FFB08F"/>
+  <path d="M40 46h16M40 53h16" stroke="#5E8FEA" stroke-width="2.6" stroke-linecap="round"/>
+  <circle cx="76" cy="76" r="8" fill="#3B82F6"/>
+  <path d="M76 71v10M71 76h10" stroke="#EAF2FF" stroke-width="2.2" stroke-linecap="round"/>
+</svg>

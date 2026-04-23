@@ -1,0 +1,2 @@
+"""PhDHub application package."""
+
